@@ -5,15 +5,13 @@
 	<RelativeLayout 
 	    android:layout_width="fill_parent"
 	    android:layout_height="fill_parent">
-	
 		<TextView android:id="@+id/display"
 			android:layout_width="fill_parent"
 			android:layout_height="wrap_content"
 			android:textSize="30sp"
 			android:text="iBuy Options"
 		/>
-		<!-- We may not want to keep anything that's in here right now, unless we can figure out a way to do notifications.
-				 -->
+		<!-- We may not want to keep anything that's in here right now, unless we can figure out a way to do notifications. -->
 		<TextView android:id="@+id/notifications"
 			android:layout_width="fill_parent"
 			android:layout_height="wrap_content"

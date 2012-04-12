@@ -5,7 +5,6 @@
 	<RelativeLayout
 	    android:layout_width="fill_parent"
 	    android:layout_height="fill_parent">
-	
 		<Button android:id="@+id/options"
 			android:layout_width="50sp"
 			android:layout_height="50sp"
@@ -32,7 +31,6 @@
 			android:drawableLeft="@drawable/add_button"
 			android:onClick="goToList"
 		/>
-		
 		<!-- Lists are now clickable - Need to be assigned an onClick to direct to listview for the list they represent.
 				Sample list currently assigned to 'goToList' as a test, works fine. -->
 		<TextView
