@@ -50,8 +50,8 @@
 		android:layout_below="@id/pwedit"
 		android:layout_alignParentRight="true"
 		android:text="Login!"
-                android:onClick="logIn"
-		/>
+		android:onClick="logIn"
+	/>
                 
 	<!--CheckBox android:id="@+id/checkbox"
 		android:layout_width="wrap_content"
